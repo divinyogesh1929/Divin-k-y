@@ -23,8 +23,8 @@ Results-driven Data & Business Analyst with **3+ years of enterprise experience*
 
 | Project | Tools | Description |
 |---------|-------|-------------|
-| [HR Analytics — SQL](./sql_project/) | MySQL, SQL Server | 15 analytical queries: JOINs, CTEs, Window Functions, Subqueries, Attrition & Salary analysis |
-| [HR Attrition EDA — Python](./python_eda/) | Python, pandas, matplotlib, seaborn | End-to-end EDA on 1,470 employees - 6 charts, 4 business insights, recommendations |
+| [HR Analytics - SQL](./sql_project/) | MySQL, SQL Server | 15 analytical queries: JOINs, CTEs, Window Functions, Subqueries, Attrition & Salary analysis |
+| [HR Attrition EDA - Python](./python_eda/) | Python, pandas, matplotlib, seaborn | End-to-end EDA on 1,470 employees - 6 charts, 4 business insights, recommendations |
 
 ---
 
